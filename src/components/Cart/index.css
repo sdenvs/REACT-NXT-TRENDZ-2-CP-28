@@ -1,1 +1,9 @@
 /* Write your CSS code here */
+.cart-image {
+  width: 60%;
+}
+@media (min-width: 768px) {
+  .cart-image {
+    width: 10%;
+  }
+}
